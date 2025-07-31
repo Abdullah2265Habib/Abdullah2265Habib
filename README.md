@@ -85,7 +85,9 @@
   <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
   <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
 </p>
-
+  <a href="https://www.microsoft.com/en-us/windows?r=1" target="_blank"> <img src="  <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
+</p>" alt="Windows" width="40" height="40"/> </a>
+</p>
 ---
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdullah2265habib&show_icons=true&locale=en&layout=compact" alt="abdullah2265habib" /></p>
