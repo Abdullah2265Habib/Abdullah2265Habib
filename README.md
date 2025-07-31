@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Abdullah Habib</h1>
 <h3 align="center">Interested in Software Development, Backend Development, and Data Analysis</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullah2265habib&label=Profile%20views&color=0e75b6&style=flat" alt="abdullah2265habib" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdullah2265habib" alt="abdullah2265habib" /></a> </p>
 
 - 🌱 I’m currently learning **Data Science, Java, and Artificial Intelligence**  
 - 👯 I’m looking to collaborate on **any upcoming international hackathon**  
 - 📧 Reach me at **abdullah2006habib@gmail.com**
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullah2265habib&label=Profile%20views&color=0e75b6&style=flat" alt="abdullah2265habib" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdullah2265habib" alt="abdullah2265habib" /></a> </p>
 ---
 
 <h3 align="left">Programming Languages:</h3>
