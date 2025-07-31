@@ -84,9 +84,7 @@
   <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
   <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
   <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
-</p>
-  <a href="https://www.microsoft.com/en-us/windows?r=1" target="_blank"> <img src="  <a href="https://developer.android.com" target="_blank"> <img src="https://img.favpng.com/0/22/21/windows-8-microsoft-windows-operating-system-windows-10-icon-png-favpng-WDewEn32BLj9rUgfhRHaTeuFC.jpg" alt="Windows" width="40" height="40"/> </a>
-</p>" alt="Windows" width="40" height="40"/> </a>
+  <a href="https://www.microsoft.com/en-us/windows?r=1" target="_blank"> <img src="  <a href="https://developer.android.com" target="_blank"> <img src="https://repository-images.githubusercontent.com/743140652/69c0c16a-9695-484e-861e-9b07c0507f45" alt="Windows" width="40" height="40"/> </a>
 </p>
 ---
 
