@@ -45,6 +45,7 @@
   <a href="https://jupyter.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> </a>
   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
   <a href="https://streamlit.io/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/refs/heads/main/topics/streamlit/streamlit.png" alt="streamlit" width="40" height="40"/> </a>
+  <a href="https://eclipseide.org/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/176413019?s=200&v=4" alt="eclipse ide" width="40" height="40"/> </a>
 </p>
 
 ---
