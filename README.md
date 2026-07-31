@@ -37,6 +37,35 @@
 
 ---
 
+<h3 align="left">Frameworks & Libraries (Web Development):</h3>
+<p align="left">
+  <a href="https://nextjs.org/" target="_blank">
+    <img src="https://www.drupal.org/files/project-images/nextjs-icon-dark-background.png" alt="nextjs" width="40" height="40"/>
+  </a>
+
+  <a href="https://nestjs.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" alt="nestjs" width="40" height="40"/>
+  </a>
+
+  <a href="https://authjs.dev/" target="_blank">
+    <img src="https://authjs.dev/img/logo-sm.png" alt="authjs" width="40" height="40"/>
+  </a>
+
+  <a href="https://tailwindcss.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
+  </a>
+
+  <a href="https://ui.shadcn.com/" target="_blank">
+    <img src="https://ui.shadcn.com/apple-touch-icon.png" alt="shadcn ui" width="40" height="40"/>
+  </a>
+
+  <a href="https://zod.dev/" target="_blank">
+    <img src="https://zod.dev/icon.png?39fe259ddd7f4224" alt="zod" width="40" height="40"/>
+  </a>
+</p>
+
+---
+
 <h3 align="left">Tools & IDEs:</h3>
 <p align="left"> 
   <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a>
