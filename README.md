@@ -107,3 +107,29 @@
 </p>
 
 ---
+
+
+
+
+## Contribution Graph
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/Abdullah2265Habib/Abdullah2265Habib/output/github-contribution-grid-snake-dark.svg"
+    width="100%"
+    alt="GitHub contribution snake animation"
+  />
+</p>
+
+---
+
+## Projects
+Highlights repositories as proof of work.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=abdullah2265habib&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/projects?username=abdullah2265habib&theme=github-dark" alt="abdullah2265habib projects section" />
+  </picture>
+</p>
+
+---
