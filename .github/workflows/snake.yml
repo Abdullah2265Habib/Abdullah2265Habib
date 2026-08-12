@@ -4,23 +4,29 @@ on:
   schedule:
     - cron: "0 */12 * * *"
   workflow_dispatch:
+
 permissions:
   contents: write
+
 jobs:
-  build:
-    name: Generate snake animation
+  generate:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: Sutil/snk@master
+      - name: Generate GitHub Snake
+        uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          svg_out_path: dist/github-contribution-grid-snake.svg
-          snake_color: 'blue'
+          outputs: |
+            dist/github-snake.svg?color_snake=blue
+            dist/github-snake-dark.svg?palette=github-dark&color_snake=blue
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - uses: crazy-max/ghaction-github-pages@v2.1.3
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v2.1.3
         with:
-          target_branch: output
           build_dir: dist
+          target_branch: output
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
